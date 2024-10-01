@@ -1,6 +1,6 @@
 git init
 git add InList.cpp
-git add .
+git add 
 git commit -m "Add IntList code"
 git remote add origin https://github.com/TAI1610/DSA_20020331_NGUYENTHANHTAI.git
 git push -u origin master
